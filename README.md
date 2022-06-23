@@ -71,4 +71,4 @@ If you have any feedback, please reach out to us at daudasaniaa008@gmail.com
 ## License
 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
